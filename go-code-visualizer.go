@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	"github.com/thijsoostdam/go-code-visualizer/parser"
-	"github.com/thijsoostdam/go-code-visualizer/formatter"
+	"github.com/CodeHipster/go-code-visualizer/parser"
+	"github.com/CodeHipster/go-code-visualizer/formatter"
 	"log"
 	"os"
 	"path/filepath"
